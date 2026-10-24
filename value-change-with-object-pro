@@ -1,0 +1,8 @@
+const user={
+    name:"samir"
+
+};
+
+user.name="Rahim";
+
+console.log(user.name);
